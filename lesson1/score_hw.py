@@ -1,0 +1,1 @@
+all_students = [{'school_class': '4a', 'scores': [3,4,4,5,2]}, ...]
